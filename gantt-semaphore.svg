@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="265">
+<rect width="100%" height="100%" fill="white"/>
+<text x="20" y="25">WRR Gantt — semaphore</text>
+<text x="15" y="70">P1</text>
+<rect x="90.0" y="50" width="58.333333333333336" height="30" fill="#4e79a7"/><text x="119.16666666666667" y="70" fill="white" text-anchor="middle">P1</text>
+<rect x="148.33333333333334" y="50" width="58.333333333333336" height="30" fill="#4e79a7"/><text x="177.5" y="70" fill="white" text-anchor="middle">P1</text>
+<rect x="206.66666666666669" y="50" width="58.333333333333336" height="30" fill="#4e79a7"/><text x="235.83333333333334" y="70" fill="white" text-anchor="middle">P1</text>
+<rect x="440.0" y="50" width="58.333333333333336" height="30" fill="#4e79a7"/><text x="469.1666666666667" y="70" fill="white" text-anchor="middle">P1</text>
+<rect x="498.33333333333337" y="50" width="58.333333333333336" height="30" fill="#4e79a7"/><text x="527.5" y="70" fill="white" text-anchor="middle">P1</text>
+<text x="15" y="125">P2</text>
+<rect x="265.0" y="105" width="58.333333333333336" height="30" fill="#f28e2b"/><text x="294.1666666666667" y="125" fill="white" text-anchor="middle">P2</text>
+<rect x="323.33333333333337" y="105" width="58.333333333333336" height="30" fill="#f28e2b"/><text x="352.50000000000006" y="125" fill="white" text-anchor="middle">P2</text>
+<rect x="556.6666666666667" y="105" width="58.333333333333336" height="30" fill="#f28e2b"/><text x="585.8333333333334" y="125" fill="white" text-anchor="middle">P2</text>
+<rect x="615.0" y="105" width="58.333333333333336" height="30" fill="#f28e2b"/><text x="644.1666666666666" y="125" fill="white" text-anchor="middle">P2</text>
+<text x="15" y="180">P3</text>
+<rect x="381.6666666666667" y="160" width="58.333333333333336" height="30" fill="#59a14f"/><text x="410.83333333333337" y="180" fill="white" text-anchor="middle">P3</text>
+<rect x="673.3333333333334" y="160" width="58.333333333333336" height="30" fill="#59a14f"/><text x="702.5" y="180" fill="white" text-anchor="middle">P3</text>
+<rect x="731.6666666666667" y="160" width="58.333333333333336" height="30" fill="#59a14f"/><text x="760.8333333333334" y="180" fill="white" text-anchor="middle">P3</text>
+</svg>
